@@ -27,24 +27,29 @@ My testing portfolio
 
 
 <h2>Courses</h2>
-*SDAcademy - Tester oprogramowania (w trakcie)
+SDAcademy - Tester oprogramowania (w trakcie)
 <h2>Certificates</h2>
 <h2>Books</h2>
-*R.Smiglin - Zawód tester
-<h2>Groups on Facebook
-*Tester oprogramowania - wsparcie na starcie
-*Testowanie oprogramowania
-*Gildia Testerów
-Recommended blogs</h2>
-*https://testerzy.pl/
-*https://testerski.blog/
-*https://olaqnysz.blogspot.com/
-*https://tozalezy.it/blog/
+*R.Smilgin - Zawód tester
+<h2>Groups on Facebook</h>
+<ul>
+<li>Tester oprogramowania - wsparcie na starcie</li>
+<li>Testowanie oprogramowania</li>
+<li>Gildia Testerów</li>
+  </ul>
+<h>Recommended blogs</h2>
+<ul>
+<li>https://testerzy.pl/</li>
+<li>https://testerski.blog/</li>
+<li>https://olaqnysz.blogspot.com/</li>
+<li>https://tozalezy.it/blog/</li>
+  </ul>
 <h2>Webinars</h2>
-*Konferencja Click 2021
-*SDAcademy - IT Ideaton
-*Suffolk Developers - Lessons Learned as a Freelance IT Professional
-*KoszalinQA - Testers Meeting Online - KoszalinQA & ZielonQA United! "Kwestionowanie ISTQB"
+<ul>
+<li>Konferencja Click 2021</li>
+<li>SDAcademy - IT Ideaton</li>
+<li>Suffolk Developers - Lessons Learned as a Freelance IT Professional</li>
+<li>KoszalinQA - Testers Meeting Online - KoszalinQA & ZielonQA United! "Kwestionowanie ISTQB"</li>
 <h2>My test case examples</h2>
 <h2>My bug reports</h2>
 <h2>My projects</h2>
