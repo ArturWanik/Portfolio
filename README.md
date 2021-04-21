@@ -30,8 +30,8 @@ My testing portfolio
 SDAcademy - Tester oprogramowania (w trakcie)
 <h2>Certificates</h2>
 <h2>Books</h2>
-*R.Smilgin - Zawód tester
-<h2>Groups on Facebook</h>
+R.Smilgin - Zawód tester
+<h2>Groups on Facebook</h2>
 <ul>
 <li>Tester oprogramowania - wsparcie na starcie</li>
 <li>Testowanie oprogramowania</li>
