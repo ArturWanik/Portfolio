@@ -19,16 +19,12 @@ My testing portfolio
 <li>AGILE</li>
 <li>Kanban</li>
 <li>MySQL</li>
-<li></li>
+<li>Creating test cases</li>
 <li>Github</li>
+<li>Reporting bugs</li>
+<li>Web testing</li>
 </ul> 
-*SCRUM
-*AGILE
-*Kanban
-*MySQL
-*Creating test cases
-*Reporting bugs
-*Web testing
+
 
 <h2>Courses</h2>
 *SDAcademy - Tester oprogramowania (w trakcie)
