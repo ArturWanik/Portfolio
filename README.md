@@ -27,8 +27,12 @@ My testing portfolio
 
 
 <h2>Courses</h2>
-SDAcademy - Tester oprogramowania (w trakcie)
+SDAcademy - Tester oprogramowania
 <h2>Certificates</h2>
+<ul>
+  <li>Tester oprogramowania (https://app.diplomasafe.com/pl-PL/s/ea0db000/211ff1a8)</li>
+  <li>Srum (https://app.diplomasafe.com/pl-PL/s/dc1caf09/2f4bc304)</li>
+  <li>I miejsce w SDA IT Ideaton 17.04.2021 </li>
 <h2>Books</h2>
 R.Smilgin - Zawód tester
 <h2>Groups on Facebook</h2>
@@ -50,6 +54,7 @@ R.Smilgin - Zawód tester
 <li>SDAcademy - IT Ideaton</li>
 <li>Suffolk Developers - Lessons Learned as a Freelance IT Professional</li>
 <li>KoszalinQA - Testers Meeting Online - KoszalinQA & ZielonQA United! "Kwestionowanie ISTQB"</li>
+<li>ŚlonzaczQA #10: Eksploracja z heurystykami w tle</li>
 <h2>My test case examples</h2>
 <h2>My bug reports</h2>
 <h2>My projects</h2>
