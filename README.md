@@ -32,7 +32,7 @@ SDAcademy - Tester oprogramowania
 <ul>
   <li>Tester oprogramowania (https://app.diplomasafe.com/pl-PL/s/ea0db000/211ff1a8)</li>
   <li>Srum (https://app.diplomasafe.com/pl-PL/s/dc1caf09/2f4bc304)</li>
-  <li>I miejsce w SDA IT Ideaton 17.04.2021 </li>
+  <li>I miejsce w SDA IT Ideaton 17.04.2021 </li></ul>
 <h2>Books</h2>
 R.Smilgin - Zawód tester
 <h2>Groups on Facebook</h2>
