@@ -54,7 +54,8 @@ R.Smilgin - Zawód tester
 <li>SDAcademy - IT Ideaton</li>
 <li>Suffolk Developers - Lessons Learned as a Freelance IT Professional</li>
 <li>KoszalinQA - Testers Meeting Online - KoszalinQA & ZielonQA United! "Kwestionowanie ISTQB"</li>
-<li>ŚlonzaczQA #10: Eksploracja z heurystykami w tle</li></ul>
+<li>ŚlonzaczQA #10: Eksploracja z heurystykami w tle</li>
+  <li>Tesowanie API dla początkujących - Tomasz Stelmach</li></ul>
 <h2>My test case examples</h2>
 <h2>My bug reports</h2>
 <h2>My projects</h2>
