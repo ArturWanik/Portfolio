@@ -41,13 +41,7 @@ R.Smilgin - Zawód tester
 <li>Testowanie oprogramowania</li>
 <li>Gildia Testerów</li>
   </ul>
-<h>Recommended blogs</h2>
-<ul>
-<li>https://testerzy.pl/</li>
-<li>https://testerski.blog/</li>
-<li>https://olaqnysz.blogspot.com/</li>
-<li>https://tozalezy.it/blog/</li>
-  </ul>
+
 <h2>Webinars</h2>
 <ul>
 <li>Konferencja Click 2021</li>
@@ -55,7 +49,9 @@ R.Smilgin - Zawód tester
 <li>Suffolk Developers - Lessons Learned as a Freelance IT Professional</li>
 <li>KoszalinQA - Testers Meeting Online - KoszalinQA & ZielonQA United! "Kwestionowanie ISTQB"</li>
 <li>ŚlonzaczQA #10: Eksploracja z heurystykami w tle</li>
-  <li>Tesowanie API dla początkujących - Tomasz Stelmach</li></ul>
+ <li>Tesowanie API dla początkujących - Tomasz Stelmach</li>
+<li>Webinar: Testy na produkcji? Poznaj środowiska testowe od zupełnych podstaw - jaktestować.pl</li>
+</ul>
 <h2>My test case examples</h2>
 <h2>My bug reports</h2>
 <h2>My projects</h2>
